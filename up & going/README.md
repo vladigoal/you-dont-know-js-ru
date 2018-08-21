@@ -10,7 +10,6 @@
 
 [Содержание](toc.md)
 
-* [Предисловие](foreword.md) (от [Jenn Lukas](http://jennlukas.com))
 * [Введение](../preface.md)
 * [Глава 1: Введение в программирование](ch1.md)
 * [Глава 2: Введение в JavaScript](ch2.md)
