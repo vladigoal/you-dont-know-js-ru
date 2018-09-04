@@ -10,8 +10,6 @@
 
 [Содержание](toc.md)
 
-* [Предисловие](https://shanehudson.net/2014/06/03/foreword-dont-know-js/) (by [Shane Hudson](https://github.com/shanehudson))
-* [Введение](../preface.md)
 * [Глава 1: Что такое область видимости?](ch1.md)
 * [Глава 2: Лексическая область видимости](ch2.md)
 * [Глава 3: Область видимости: функции против блоков](ch3.md)
