@@ -12,7 +12,6 @@
 
 * [Предисловие](foreword.md) (от [Jake Archibald](http://jakearchibald.com))
 * [Preface](../preface.md)
-* [Chapter 2: Callbacks](ch2.md)
 * [Chapter 3: Promises](ch3.md)
 * [Chapter 4: Generators](ch4.md)
 * [Chapter 5: Program Performance](ch5.md)
